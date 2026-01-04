@@ -10,21 +10,6 @@ This project demonstrates a **modern, industry-grade RAG pipeline** using **Sent
 
 ---
 
-## 🚀 Key Features
-
-* 📄 **Document ingestion** from local `.txt` files
-* ✂️ **Intelligent text chunking** for long documents
-* 🔍 **Hybrid Search**:
-
-  * Semantic similarity (Sentence Transformers)
-  * Keyword relevance (TF-IDF)
-* ⚖️ **Legal-aware prompt engineering**
-* 🤖 **LLM-powered answers** using Google Gemini
-* 🧩 Modular, clean Python architecture
-* 🔐 Secure API key handling via environment variables
-
----
-
 ## 🏗️ System Architecture
 
 ```text

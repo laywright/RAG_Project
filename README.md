@@ -1,7 +1,3 @@
-Excellent choice — a **strong README** massively upgrades how serious and “hire-ready” your project looks. Below is a **state-of-the-art, production-quality README.md** tailored specifically to **your RAG system**, your **hybrid search**, and **Gemini integration**.
-
-You can **copy-paste this directly** into a `README.md` file and push it to GitHub.
-
 ---
 
 # 🧠 RAG Legal Assistant
